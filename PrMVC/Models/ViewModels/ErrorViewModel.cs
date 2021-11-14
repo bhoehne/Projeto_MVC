@@ -1,6 +1,6 @@
 using System;
 
-namespace PrMVC.Models
+namespace PrMVC.Models.ViewModels
 {
     public class ErrorViewModel
     {
