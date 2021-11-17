@@ -15,5 +15,7 @@ namespace PrMVC.Data
         }
 
         public DbSet<PrMVC.Models.Department> Department { get; set; }
+        public DbSet<PrMVC.Models.Seller> Seller { get; set; }
+        public DbSet<PrMVC.Models.SalesRecord> SalesRecord { get; set; }
     }
 }
